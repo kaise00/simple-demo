@@ -1,2 +1,3 @@
-# simple-demo
-A git training repository
+# simple Example repo
+
+A sample git training repository
